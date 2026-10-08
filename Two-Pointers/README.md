@@ -25,4 +25,4 @@ traverse and process arrays or strings.
 
 ## Progress
 
-Fundamentals practiced through 4 LeetCode problems.
+Fundamentals practiced through 5 LeetCode problems.
